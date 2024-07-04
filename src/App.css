@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+.Submit-btn {
+  border: 2px solid white;
+  border-radius: 50px;
+  width: 100%;
+  padding: 2%;
+  font-weight: bold;
+}
+
+.Label {
+  margin-right: 10%;
+}
+
+.InpuLabel,.TextareaLabel {
+  width: 100%;
+  font-weight: bold;
+}
+
+.DivField {
+  text-align: left;
+  align-items: left;
+  justify-content: left;
+}
